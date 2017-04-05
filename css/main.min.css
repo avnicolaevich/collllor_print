@@ -1490,8 +1490,12 @@ hr {
 
 @font-face {
     font-family: font-icons;
-    src: url(../../fonts/Fontello/fontello.eot?55009343);
-    src: url(../../fonts/Fontello/fontello.eot?55009343#iefix) format("embedded-opentype"), url(../../fonts/Fontello/fontello.woff2?55009343) format("woff2"), url(../../fonts/Fontello/fontello.woff?55009343) format("woff"), url(../../fonts/Fontello/fontello.ttf?55009343) format("truetype"), url(../../fonts/Fontello/fontello.svg?55009343#font-icons) format("svg");
+    src: url(../fonts/Fontello/fontello.eot?55009343);
+    src: url(../fonts/Fontello/fontello.eot?55009343#iefix) format("embedded-opentype"), 
+        url(../fonts/Fontello/fontello.woff2?55009343) format("woff2"), 
+        url(../fonts/Fontello/fontello.woff?55009343) format("woff"), 
+        url(../fonts/Fontello/fontello.ttf?55009343) format("truetype"), 
+        url(../fonts/Fontello/fontello.svg?55009343#font-icons) format("svg");
     font-weight: 400;
     font-style: normal
 }
